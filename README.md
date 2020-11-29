@@ -1,2 +1,2 @@
 # Store_site
-Dont collab with me.
+Hey im just wanna create website on netlify so dont collab with me.
